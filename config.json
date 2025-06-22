@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "&",
+    "mongodbUri": "mongodb+srv://TheSBGanes:sarthakbavishi07@discordbot.bfyeg5t.mongodb.net/",
     "excessCommands": {
         "utility": true,
         "other": true,
