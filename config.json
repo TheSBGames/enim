@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "&",
-    "mongodbUri": "mongodb+srv://TheSBGanes:sarthakbavishi07@discordbot.bfyeg5t.mongodb.net/",
+    "mongodbUri": "mongodb+srv://TheSBGanes:sarthakbavishi07@discordbot.bfyeg5t.mongodb.net/?retryWrites=true&w=majority&appName=Discordbot",
     "excessCommands": {
         "utility": true,
         "other": true,
