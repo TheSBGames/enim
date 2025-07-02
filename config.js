@@ -4,10 +4,10 @@ module.exports = {
   ownerId: '1186506712040099850',
   status: {
     rotateDefault: [
-      { name: '/help', type: ActivityType.Watching },
-      { name: '/help', type: ActivityType.Playing },
-      { name: 'SB', type: ActivityType.Streaming, url: 'https://youtube.com/@TheSBGamesOG' },
-      { name: 'SB', type: ActivityType.Listening },
+      { name: 'TFARC_ENIM', type: ActivityType.Watching },
+      { name: 'TFARC_ENIM', type: ActivityType.Playing },
+      { name: 'TFARC_ENIM', type: ActivityType.Streaming, url: 'https://youtube.com/@TFARC_ENIM' },
+      { name: 'TFARC_ENIM', type: ActivityType.Listening },
     ],
     songStatus: true
   },
